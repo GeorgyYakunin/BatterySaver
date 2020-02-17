@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name" translatable="false">BatterySaver</string>
+    <string name="two" translatable="false">2</string>
+    <string name="oc" translatable="false">oC</string>
+    <string name="hungred_percent" translatable="false">100%</string>
+    <string name="zero_h_zero_m" translatable="false">0 h 0 m</string>
+    <string name="sixteen_s" translatable="false">60s</string>
+    <string name="treety_and_treeteen" translatable="false">13h 30p</string>
+    <string name="nine_and_half" translatable="false">9h 30p</string>
+    <string name="seven_and_twenty" translatable="false">7h 20p</string>
+    <string name="threeteen_c" translatable="false">30C</string>
+    <string name="ten_v" translatable="false">10.0V</string>
+    <string name="thouzand_mha" translatable="false">1000mAh</string>
+    <string name="fourteen_fourty" translatable="false">14:40</string>
+
+    <string name="mo">Open</string>
+    <string name="dong">Close</string>
+    <string name="ahas_successfuly_cooled">Has Successfully cooled</string>
+    <string name="complite">Complite</string>
+    <string name="battary_power">Battary power</string>
+    <string name="normal_mode">Normal mode</string>
+    <string name="screen_brightness">Screen brightness</string>
+    <string name="auto">Auto</string>
+    <string name="screen_time">Screen time</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="off">OFF</string>
+    <string name="wifi">Wifi</string>
+    <string name="on">ON</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="available_talk_time">Available talk time</string>
+    <string name="available_internet_time">Available internet time</string>
+    <string name="available_game_time">Available game time</string>
+    <string name="battery_cooler">Battery cooler</string>
+    <string name="lower_temperature_longer_life">Lower temperature, longer life</string>
+    <string name="temperature">Temperature</string>
+    <string name="voltage">Voltage</string>
+    <string name="capacity">Capacity</string>
+    <string name="data">Data</string>
+    <string name="brightness">Brightness</string>
+    <string name="ring">Ring</string>
+    <string name="shock">Shock</string>
+    <string name="location">Location</string>
+    <string name="flight_mode">FlightMode</string>
+    <string name="power_saving_mode">Power saving mode</string>
+    <string name="sleep_mode">Sleep mode</string>
+    <string name="charging_screen">Charging Screen</string>
+    <string name="notifications">Notifications</string>
+    <string name="notification_bar">Notification Bar</string>
+    <string name="check_for_update">Check for update</string>
+    <string name="ten_slash_seven_wen">10/7 Wednesday</string>
+    <string name="power_cleaner">Power Cleaner</string>
+    <string name="battery_cooling">Battery cooling</string>
+    <string name="battery">Battery</string>
+    <string name="rank">Rank</string>
+    <string name="power_mode">Power mode</string>
+    <string name="settings">Settings</string>
+</resources>

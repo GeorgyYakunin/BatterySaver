@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_power_cleaner"
+        android:icon="@drawable/ic_battery_charging_full_black_24dp"
+        android:title="@string/power_cleaner" />
+    <item
+        android:id="@+id/nav_cooling"
+        android:icon="@drawable/ic_fan"
+        android:title="@string/battery_cooling" />
+    <item
+        android:id="@+id/nav_battery"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/battery" />
+    <item
+        android:id="@+id/nav_rank"
+        android:icon="@drawable/ic_trending_up_black_24dp"
+        android:title="@string/rank" />
+    <item
+        android:id="@+id/nav_power_mode"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="@string/power_mode"  />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/settings"  />
+</menu>

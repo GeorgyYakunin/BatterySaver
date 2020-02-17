@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E2831</color>
+    <color name="colorPrimaryDark">#191F24</color>
+    <color name="colorAccent">#9217A3</color>
+    <color name="colorItemMenu">#43655E</color>
+    <color name="colorItemDisable">#3E3E3E</color>
+    <color name="colorWaring">#D56100</color>
+    <color name="colorMedium">#FFD300</color>
+    <color name="colorGood">#12A973</color>
+    <color name="colorNotificationBar">#82B50B</color>
+    <color name="colorItemDisable2">#505050</color>
+    <color name="dark_green">#96C046</color>
+    <color name="bright_green">#A6EE1C</color>
+    <color name="light_grey">#989898</color>
+    <color name="grey">#757575</color>
+    <color name="white">#fcfcfc</color>
+    <!--219F0A-->
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mo">Открыть</string>
+    <string name="dong">Закрыть</string>
+    <string name="ahas_successfuly_cooled">Успешно охлажден</string>
+    <string name="complite">Завершено</string>
+    <string name="battary_power">Заряд батареи</string>
+    <string name="normal_mode">Обычный мод</string>
+    <string name="screen_brightness">Яркость экрана</string>
+    <string name="auto">Авто</string>
+    <string name="screen_time">Экранное время</string>
+    <string name="vibrate">Выбрация</string>
+    <string name="off">ОТКЛ</string>
+    <string name="wifi">Wifi</string>
+    <string name="on">ВКЛ</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="available_talk_time">Доступное время разговора</string>
+    <string name="available_internet_time">Доступное интернет время</string>
+    <string name="available_game_time">Доступное игровое время</string>
+    <string name="battery_cooler">Охладитель батареи</string>
+    <string name="lower_temperature_longer_life">Ниже температура, дольше жизнь</string>
+    <string name="temperature">Температура</string>
+    <string name="voltage">Вольтаж</string>
+    <string name="capacity">Вместимость</string>
+    <string name="data">Данные</string>
+    <string name="brightness">Яркость</string>
+    <string name="ring">Кольцо</string>
+    <string name="shock">Удар</string>
+    <string name="location">Локация</string>
+    <string name="flight_mode">Режим полета</string>
+    <string name="power_saving_mode">PРежим сохранения энергии</string>
+    <string name="sleep_mode">Спящий режим</string>
+    <string name="charging_screen">Экран заряда</string>
+    <string name="notifications">Уведомления</string>
+    <string name="notification_bar">Панель уведомлений</string>
+    <string name="check_for_update">Проверьте обновления</string>
+    <string name="ten_slash_seven_wen">10/7 Среда</string>
+    <string name="power_cleaner">Power Cleaner</string>
+    <string name="battery_cooling">Охлаждение батареи</string>
+    <string name="battery">Батарея</string>
+    <string name="rank">Ранг</string>
+    <string name="power_mode">Power mode</string>
+    <string name="settings">Настройки</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bt_battery"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/battery" />
+    <item
+        android:id="@+id/bt_powermode"
+        android:icon="@drawable/ic_tune_black_24dp"
+        android:title="@string/power_mode"  />
+    <item
+        android:id="@+id/bt_setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/settings"  />
+</menu>
